@@ -37,7 +37,7 @@ const Contact = () => {
         <div className="contact_content">
           <div className="contact_content_texts">
             <h2 className='contact_content_texts_heading'>Get In Touch</h2>
-            <p>Feel free to reach out to us with any questions, suggestions, or collaboration opportunities. We're here to listen and engage with you. Your feedback is valuable, and we look forward to connecting!</p>
+            <p>Please feel free to reach out with any questions, suggestions, or collaboration opportunities. I am here to attentively listen and engage with you, as your feedback is incredibly valuable. To recruiters, I extend a warm invitation to inquire about potential opportunities. I'm enthusiastic about discussing how my skills can be an asset to your organization, and I eagerly await the opportunity to connect with you.</p>
           </div>
           <div className="contact_content_forms">
             <form onSubmit={sendEmail} className='input-icons'>
