@@ -304,6 +304,11 @@ button:focus {
   .Typewriter__cursor {
     display: none !important;
   }
+  .home-content {
+    padding: 1.5rem 0 2rem !important;
+    color: whitesmoke;
+    text-align: left;
+  }
 }
 
 .myAvtar {
